@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gnbcreator
 - 👀 I’m interested in know more about technology 
-- 🌱 I’m currently learning in  Computer Science 
+- 🌱 Completed Bachelore of Science degree in Computer Science
 
 
 
